@@ -1,0 +1,12 @@
+.side{
+    background-color: slategray;
+    float: left;
+    width: 30%;
+    height: 600px;
+}
+.form-con{
+    height: 76px;
+    box-sizing: border-box;
+    width: 333px;
+    border-style:double;
+}

@@ -1,0 +1,39 @@
+
+    
+
+
+.container{
+    padding:11px
+    margin: 12%;
+    
+    position: static;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: static;
+}
+.form-group{
+    color: white;
+}
+.form-control{
+    border-style: dotted;
+    width:242px;
+    height:44px;
+    margin: 0.6%;
+    
+}
+
+.text{
+    color: antiquewhite;
+    text-align: center;
+}
+.tex{
+    color: white
+}
+
+
+
+
+
+
+
+
